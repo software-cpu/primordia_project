@@ -36,7 +36,7 @@ We've created simple scripts to make getting started as easy as possible. Please
 First, you'll need to get the project files onto your computer. If you have Git installed, you can clone the repository.
 
 ```bash
-git clone [your-repository-url]
+git clone [https://github.com/software-cpu/primordia_project]
 cd primordia
 ```
 
