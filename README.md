@@ -4,7 +4,7 @@ We are so glad you're here to explore this unique world. Primordia is a text-bas
 
 This project was born from a passion for combining concepts from evolutionary biology, cellular automata, generative AI, and classic RPGs into a novel, text-driven experience.
 
-(github-recording.gif)
+*(github-recording.gif)*
 
 ## Core Concepts
 
